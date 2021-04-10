@@ -1,0 +1,10 @@
+,y'__0,y'__1,Recall
+y:Survived=0,117,17,0.8731
+y:Survived=1,23,66,0.7415
+Precision,0.8357,0.7951,
+F-Measures,0.8539,0.7673,
+,,,
+Accuracy,0.8206,,
+Avg.Precision,0.8154,,
+Avg.Recall,0.8073,,
+Avg.F-Measures,0.8106,,

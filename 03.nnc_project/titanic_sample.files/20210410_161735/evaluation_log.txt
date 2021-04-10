@@ -1,0 +1,12 @@
+2021-04-10 16:17:51,503 Evaluation process is started.
+python "D:\03.NeuralNetowrkConsole\neural_network_console\libs\Python\Lib\site-packages\nnabla\utils\cli\cli.py" forward
+	-c "D:\01.windows_work\01.github\NeuralNetworkConsole-Titanic-Sample\03.nnc_project\titanic_sample.files\20210410_161735\results.nnp"
+	-d "D:\01.windows_work\01.github\NeuralNetworkConsole-Titanic-Sample\02.data\validation.csv"
+	-o "D:\01.windows_work\01.github\NeuralNetworkConsole-Titanic-Sample\03.nnc_project\titanic_sample.files\20210410_161735"
+	--replace_path
+2021-04-10 16:17:53,862 [nnabla]: data 64 / 223
+2021-04-10 16:17:53,865 [nnabla]: data 128 / 223
+2021-04-10 16:17:53,868 [nnabla]: data 192 / 223
+2021-04-10 16:17:53,870 [nnabla]: data 223 / 223
+2021-04-10 16:17:53,870 [nnabla]: Forward Completed.
+NNabla command line interface (Version:1.15.0.dev1, Build:201211124504)

@@ -1,0 +1,9 @@
+2021-04-10 16:13:37,328 Training process is started.
+python "D:\03.NeuralNetowrkConsole\neural_network_console\libs\Python\Lib\site-packages\nnabla\utils\cli\cli.py" train
+	-c "D:\01.windows_work\01.github\NeuralNetworkConsole-Titanic-Sample\03.nnc_project\titanic_sample.files\20210410_161337\net.nntxt"
+	-o "D:\01.windows_work\01.github\NeuralNetworkConsole-Titanic-Sample\03.nnc_project\titanic_sample.files\20210410_161337"
+2021-04-10 16:13:39,021 [nnabla]: Creating cache data for "D:\01.windows_work\01.github\NeuralNetworkConsole-Titanic-Sample\02.data\train.csv"
+2021-04-10 16:13:41,773 [nnabla]: Creating cache data for "D:\01.windows_work\01.github\NeuralNetworkConsole-Titanic-Sample\02.data\validation.csv"
+2021-04-10 16:13:44,896 [nnabla]: Train with contexts ['cpu', 'cuda', 'cudnn']
+2021-04-10 16:13:44,915 [nnabla]: Training epoch 1 of 250 begin
+2021-04-10 16:13:45,180 [nnabla]: epoch 1 of 250 cost=1.192833  {train_error=1.903807, valid_error=1.955369} time=(0.2s /51.9s) 
