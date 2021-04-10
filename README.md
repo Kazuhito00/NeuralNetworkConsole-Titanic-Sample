@@ -1,6 +1,6 @@
 # NeuralNetworkConsole-Titanic-Sample
 [Neural Network Console](https://dl.sony.com/ja/)でKaggleのタイタニックを学習するサンプルです。<br>
-<img src="https://user-images.githubusercontent.com/37477845/114264025-79a01800-9a23-11eb-858f-a4fe888daf7f.gif" width="60%"><br>
+<img src="https://user-images.githubusercontent.com/37477845/114264025-79a01800-9a23-11eb-858f-a4fe888daf7f.gif" width="60%"><br><br>
 本リポジトリには以下の内容を含んでいます。<br>
 * Jupyter Notebook：データセット前処理(欠損値、Ordinal Encoding)
 * Neural Network Console：学習、構造自動探索
