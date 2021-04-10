@@ -7,6 +7,7 @@
 * Neural Network Console：ONNXファイルエクスポート
 * Jupyter Notebook：推論
 
+
 # Requrement(Neural Network Console)
 * Neural Network Console 2.0
 
@@ -67,6 +68,7 @@ Neural Network Consoleのプロジェクトファイルです。
 
 ### 05.result
 04_inference.ipynbを用いて推論した結果です。
+スコア：0.75837
 </details>
 
 # Model
